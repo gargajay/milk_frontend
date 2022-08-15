@@ -5,7 +5,7 @@ ThemeData light = ThemeData(
   primaryColor: Colors.blueAccent,
   brightness: Brightness.light,
   cardColor: Colors.white,
-  focusColor: Color.fromARGB(255, 155, 232, 246),
+  focusColor: Colors.blueAccent,
   hintColor: Color(0xFF52575C),
   pageTransitionsTheme: PageTransitionsTheme(builders: {
     TargetPlatform.android: ZoomPageTransitionsBuilder(),
